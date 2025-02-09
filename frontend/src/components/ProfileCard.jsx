@@ -6,7 +6,7 @@ import logo from '/src/assets/fh-favicon.jpg';
 
 const ProfileCard = () => {
   return (
-    <section className='flex flex-col justify-center w-80 border rounded-lg py-4 border-orange-300'>
+    <section className='flex flex-col justify-center w-80  rounded-lg py-4 border-blue-300 border-4'>
       <div className='flex items-center gap-3 ml-10'>
         <div>
           <img className='h-16' src={logo} alt="logo" />
